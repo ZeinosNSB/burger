@@ -10,7 +10,7 @@ class Page extends Component {
                 <Row className="text-center">
                     <Col sm={7}>
                         <h2 className="text-success">Bài tập Burger CyberSoft</h2>
-                        <h5 className="text-danger">Bánh burgur của bạn</h5>
+                        <h5 className="text-danger">Bánh burger của bạn</h5>
                         <Burger/>
                     </Col>
                     <Col sm={5}>
