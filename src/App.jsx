@@ -2,7 +2,9 @@ import Page from "./component/Page.jsx";
 
 function App() {
     return (
-        <Page/>
+        <div className="App">
+            <Page/>
+        </div>
     )
 }
 
